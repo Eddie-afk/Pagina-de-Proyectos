@@ -74,11 +74,7 @@ const locations = [
     lat: "",
     lng: "",
   },
-  {
-    place: "My house",
-    lat: "25.49099176976244",
-    lng: "-103.69192194805735",
-  },
+
   {
     place: "UTLD",
     lat: "25.501",
